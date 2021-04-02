@@ -3,7 +3,9 @@ This repository includes work from Graphics and Animation class which utilises A
 
 # Usage
 **Best to run on linux**
+
 To build the project:
 * make
+
 To run:
 * ./filename
